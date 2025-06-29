@@ -1,4 +1,4 @@
-# DV01 Frontend Challenge - Loan Data Visualization Dashboard
+# Loan Data Visualization Dashboard
 
 A React/Redux application that visualizes loan data through interactive tables and charts with advanced filtering capabilities.
 
@@ -12,6 +12,60 @@ A React/Redux application that visualizes loan data through interactive tables a
 - **Data Processing**: CSV parsing, normalization, and transformation pipeline
 - **State Management**: Redux for centralized state management
 - **Comprehensive Testing**: Unit tests for all major components and utilities
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v14 or higher)
+- yarn
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd "dv01 Frontend Challenge 202103"
+   ```
+
+2. **Install dependencies**
+   ```bash
+   yarn install
+   ```
+
+3. **Start the development server**
+   ```bash
+   yarn start
+   ```
+
+4. **Open your browser**
+   ```
+   http://localhost:3000
+   ```
+
+
+## 🧪 Testing
+
+### Run all tests
+```bash
+yarn test
+```
+
+### Run tests in watch mode
+```bash
+yarn test --watch
+```
+
+### Run specific test files
+```bash
+yarn test src/utils/dataTransformer.test.ts
+yarn test src/request/api.test.ts
+yarn test src/App.test.tsx
+```
+
+### Test Coverage
+- **Data Transformation**: 100% coverage of normalization and transformation logic
+- **API Layer**: Complete testing of CSV loading, parsing, and error scenarios
+- **Integration**: App-level testing with mock Redux store
 
 ## 🏗️ Project Structure
 
@@ -44,7 +98,7 @@ public/
 ## 🛠️ Technology Stack
 
 - **Framework**: React 18 with TypeScript
-- **State Management**: Redux Toolkit
+- **State Management**: Redux Toolkit + Redux DevTools
 - **UI Components**: Material-UI (MUI)
 - **Charts**: Recharts
 - **CSV Parsing**: PapaParse
@@ -104,59 +158,6 @@ interface LoanData {
   year: string;
 }
 ```
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- yarn
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd "dv01 Frontend Challenge 202103"
-   ```
-
-2. **Install dependencies**
-   ```bash
-   yarn install
-   ```
-
-3. **Start the development server**
-   ```bash
-   yarn start
-   ```
-
-4. **Open your browser**
-   ```
-   http://localhost:3000
-   ```
-
-## 🧪 Testing
-
-### Run all tests
-```bash
-yarn test
-```
-
-### Run tests in watch mode
-```bash
-yarn test --watch
-```
-
-### Run specific test files
-```bash
-yarn test src/utils/dataTransformer.test.ts
-yarn test src/request/api.test.ts
-yarn test src/App.test.tsx
-```
-
-### Test Coverage
-- **Data Transformation**: 100% coverage of normalization and transformation logic
-- **API Layer**: Complete testing of CSV loading, parsing, and error scenarios
-- **Integration**: App-level testing with mock Redux store
 
 ## 📊 Data Flow
 
