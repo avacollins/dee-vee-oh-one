@@ -7,13 +7,7 @@ const DataLoader: React.FC = () => {
   const isLoading = useSelector((state: any) => state.data.isLoading);
 
   return (
-    <Box
-      display="flex"
-      flexDirection="column"
-      alignItems="center"
-      justifyContent="stretch"
-      height="100vh"
-    >
+    <Box>
       {isLoading && (
         <>
           <CircularProgress />

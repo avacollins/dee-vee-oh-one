@@ -4,6 +4,7 @@ import { Alert, Box, Container, Typography } from "@mui/material";
 import React, { useEffect } from "react";
 
 import DataLoader from "./components/DataLoader";
+import LoanDataTable from "./components/LoanDataTable";
 import { getData } from "./request/api";
 import { setError } from "./store/dataSlice";
 import { store } from "./store/store";
@@ -34,6 +35,8 @@ const App: React.FC = () => {
       </Box>
 
       <DataLoader />
+
+      <LoanDataTable />
 
       {error && (
         <Alert severity="error" sx={{ mt: 2 }}>
