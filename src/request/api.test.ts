@@ -111,8 +111,13 @@ describe("api.ts", () => {
 
       const result = await getData();
 
-      // Verify fetch was called with correct URL
-      expect(fetch).toHaveBeenCalledWith("/loansize.csv");
+      // Verify fetch was called with correct URL and headers
+      expect(fetch).toHaveBeenCalledWith("/loansize.csv", {
+        method: "GET",
+        headers: {
+          "Content-Type": "text/csv",
+        },
+      });
 
       // Verify Papa.parse was called with correct parameters
       expect(Papa.parse).toHaveBeenCalledWith(mockCsvData, {
@@ -135,19 +140,55 @@ describe("api.ts", () => {
       (fetch as jest.Mock).mockRejectedValue(mockError);
 
       await expect(getData()).rejects.toThrow("Network error");
-      expect(fetch).toHaveBeenCalledWith("/loansize.csv");
+      expect(fetch).toHaveBeenCalledWith("/loansize.csv", {
+        method: "GET",
+        headers: {
+          "Content-Type": "text/csv",
+        },
+      });
     });
 
     it("should handle HTTP error responses", async () => {
       (fetch as jest.Mock).mockResolvedValue({
         ok: false,
+        status: 404,
         statusText: "Not Found",
+        headers: new Headers(),
       });
 
+      // Mock all alternative URL attempts to also fail
+      (fetch as jest.Mock)
+        .mockResolvedValueOnce({
+          ok: false,
+          status: 404,
+          statusText: "Not Found",
+          headers: new Headers(),
+        })
+        .mockResolvedValueOnce({
+          ok: false,
+          status: 404,
+          statusText: "Not Found",
+        })
+        .mockResolvedValueOnce({
+          ok: false,
+          status: 404,
+          statusText: "Not Found",
+        })
+        .mockResolvedValueOnce({
+          ok: false,
+          status: 404,
+          statusText: "Not Found",
+        });
+
       await expect(getData()).rejects.toThrow(
-        "Failed to fetch CSV file: Not Found"
+        "Failed to fetch CSV file from any URL"
       );
-      expect(fetch).toHaveBeenCalledWith("/loansize.csv");
+      expect(fetch).toHaveBeenCalledWith("/loansize.csv", {
+        method: "GET",
+        headers: {
+          "Content-Type": "text/csv",
+        },
+      });
     });
 
     it("should handle Papa.parse error", async () => {
@@ -236,9 +277,7 @@ describe("api.ts", () => {
       expect(transformLoanData).toHaveBeenCalledWith([]);
     });
 
-    it("should log appropriate messages during processing", async () => {
-      const consoleSpy = jest.spyOn(console, "log").mockImplementation();
-
+    it("should handle parsing data correctly without logging", async () => {
       (Papa.parse as jest.Mock).mockImplementation((csvData, options) => {
         setTimeout(() => {
           options.complete({
@@ -249,26 +288,14 @@ describe("api.ts", () => {
         }, 0);
       });
 
-      await getData();
+      const result = await getData();
 
-      expect(consoleSpy).toHaveBeenCalledWith(
-        "Parsed CSV data:",
-        mockParsedData
-      );
-      expect(consoleSpy).toHaveBeenCalledWith(
-        "Normalized data:",
-        mockNormalizedData
-      );
-      expect(consoleSpy).toHaveBeenCalledWith(
-        "Transformed loan data:",
-        mockTransformedData
-      );
-
-      consoleSpy.mockRestore();
+      expect(result).toEqual(mockTransformedData);
+      expect(normalizeLoanData).toHaveBeenCalledWith(mockParsedData);
+      expect(transformLoanData).toHaveBeenCalledWith(mockNormalizedData);
     });
 
-    it("should log errors when processing fails", async () => {
-      const consoleErrorSpy = jest.spyOn(console, "error").mockImplementation();
+    it("should handle processing errors correctly", async () => {
       const processingError = new Error("Processing failed");
 
       (normalizeLoanData as jest.Mock).mockImplementation(() => {
@@ -286,29 +313,13 @@ describe("api.ts", () => {
       });
 
       await expect(getData()).rejects.toThrow("Processing failed");
-
-      expect(consoleErrorSpy).toHaveBeenCalledWith(
-        "Error parsing CSV data:",
-        processingError
-      );
-
-      consoleErrorSpy.mockRestore();
     });
 
     it("should handle network timeout gracefully", async () => {
       const timeoutError = new Error("Request timeout");
       (fetch as jest.Mock).mockRejectedValue(timeoutError);
 
-      const consoleErrorSpy = jest.spyOn(console, "error").mockImplementation();
-
       await expect(getData()).rejects.toThrow("Request timeout");
-
-      expect(consoleErrorSpy).toHaveBeenCalledWith(
-        "Error loading CSV file:",
-        timeoutError
-      );
-
-      consoleErrorSpy.mockRestore();
     });
 
     it("should call Papa.parse with correct configuration", async () => {
