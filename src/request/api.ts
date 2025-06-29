@@ -1,47 +1,44 @@
+import { normalizeLoanData, transformLoanData } from "../utils/dataTransformer";
+
+import { CsvRow } from "../utils/dataTransformer";
+import { LoanData } from "../utils/dataTransformer";
 import Papa from "papaparse";
 
-interface LoanData {
-  year: string;
-  quarter: string;
-  grade: string;
-  homeOwnership: string;
-  term: string;
-  currentBalance: string;
-}
-
-const csvUrl = "./loansize.csv";
-
-const parseData = (result: any, rawData: LoanData[]) => {
-  result.data.splice(0, 2);
-  const { data } = result;
-  for (let i = 0; i < data.length; i += 1) {
-    const year = data[i][0];
-    const quarter = data[i][1];
-    const grade = data[i][2];
-    const homeOwnership = data[i][3];
-    const term = data[i][4];
-    const currentBalance = data[i][5];
-    rawData.push({
-      year,
-      quarter,
-      grade,
-      homeOwnership,
-      term,
-      currentBalance,
-    });
-  }
-
-  return rawData;
-};
+const csvUrl = "/loansize.csv";
 
 export const getData = async (): Promise<LoanData[]> => {
-  const csvData = await fetch(csvUrl).then((response) => {
-    return response.text();
-  });
-  const data: LoanData[] = [];
-  await Papa.parse(csvData, {
-    complete: (result) => parseData(result, data),
-  });
+  try {
+    const response = await fetch(csvUrl);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch CSV file: ${response.statusText}`);
+    }
+    const csvData = await response.text();
 
-  return data;
+    return new Promise((resolve, reject) => {
+      Papa.parse(csvData, {
+        header: true,
+        skipEmptyLines: true,
+        complete: (result: Papa.ParseResult<CsvRow>) => {
+          try {
+            console.log("Parsed CSV data:", result.data);
+            const normalizedData = normalizeLoanData(result.data);
+            console.log("Normalized data:", normalizedData);
+            const transformLoanDataResult = transformLoanData(normalizedData);
+            console.log("Transformed loan data:", transformLoanDataResult);
+            resolve(transformLoanDataResult);
+          } catch (error) {
+            console.error("Error parsing CSV data:", error);
+            reject(error);
+          }
+        },
+        error: (error: any) => {
+          console.error("Papa Parse error:", error);
+          reject(error);
+        },
+      });
+    });
+  } catch (error) {
+    console.error("Error loading CSV file:", error);
+    throw error;
+  }
 };

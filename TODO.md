@@ -42,8 +42,10 @@ BONUS POINTS(optional):
 
 - init git repo
 - update to latest cra using typescript and yarn
-- add redux
 - update components to ts
+- add redux
+- MUI
+- create data loader component update getData
 - unit test the api endpoint
 - normalize and dedupe data after parse, update redux with clean data
 - add unit tests for data transforms

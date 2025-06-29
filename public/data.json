@@ -1,0 +1,7026 @@
+[
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15875.2950167058"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13340.3884795713"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10254.3896155371"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12679.4117647059"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12425.9135200974"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "8123.27981651376"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10653.2303370787"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9570.21683673469"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14996.4265850946"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20162.8428927681"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "11333.2167832168"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15470.4413892909"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11051.2119908204"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10174.5535714286"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7151.21212121212"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19300.5912674348"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22084.9719101124"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "7912.284144427"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12497.4669867947"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20953.0296179064"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11332.4210206561"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20215.1639344262"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10041.4310954064"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8314.82919254658"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10499.1579426491"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9982.3746701847"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20994.9629080119"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13714.6762548038"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10173.0434782609"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7545.28301886792"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "13041.7625681405"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14980.0971217921"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7596.16724738676"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11798.5110006444"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11356.1827956989"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12742.2945205479"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14819.6153846154"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15467.6974279436"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11175.52167228"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7724.81060606061"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13358.233484456"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21883.0333154218"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7683.70786516854"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10856.2506481385"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10300.1919795222"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14981.9344982336"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11979.1617122473"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12026.0204081633"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14074.1055282873"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8594.67329545455"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13944.5488721805"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20747.5576092175"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "13237.3327464789"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "12076.2711864407"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "14300"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14183.5518704204"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14075.3787133583"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15316.9053876478"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12877.5992272568"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9333.8785046729"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13080.1209451902"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "7701.92953020134"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11618.5185185185"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12932.4187436234"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "11362.0098039216"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7673.59022556391"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "19500"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10017.7606177606"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11721.2078651685"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11468.9057710249"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12542.4471299094"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8423.77488514548"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "14015.4458598726"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11912.5"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11961.3636363636"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15458.724631914"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "17633.75"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7931.36363636364"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "9860.90909090909"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "8328.82947976879"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10878.940926893"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9366.89655172414"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14887.7906976744"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "6721.875"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "9306"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10864.104509974"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "8918.14516129032"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "11905.8080808081"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18449.8776355422"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10516.8421052632"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "14105"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10566.3793103448"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7578.63636363636"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "12425.9615384615"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10290.306122449"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14291.6666666667"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "15900"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "10698.828125"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8321.74418604651"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "13361.5702479339"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11366.1965282083"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14973.7686773658"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14144.2849254555"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10996.0317460317"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "10893.5897435897"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "6236.11111111111"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20082.1058315335"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "16235.8870967742"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7613.04347826087"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13964.8148148148"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11407.6633165829"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10852.9545454545"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10270.8333333333"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7949.32432432432"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "9260.64814814815"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10180"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12716.6666666667"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8699.51923076923"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "6939.28571428571"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9087.5"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9845.19136408243"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14625"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14725"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "23130"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10121.828358209"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12506.1737804878"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8555.55555555555"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12644.8102016607"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "8409.375"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18186.4538731024"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "11310.2941176471"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7850.07042253521"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "7620.40816326531"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "11538.28125"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "13706"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7875"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "10875"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12813.8871522351"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "9712.5"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "8585"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "10242.5"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9524.71590909091"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8254.50581395349"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "9585"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "12071.2121212121"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7415.42553191489"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "12827.6315789474"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "10180.412371134"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "9716.16379310345"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "8997.80701754386"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18570.4358812382"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10426.0964912281"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "13025"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11557.4074074074"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "12328.5714285714"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9806.25"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "5956.66666666667"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "15025"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "10092.8571428571"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "13787.5"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "5316.66666666667"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "8142.83536585366"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "21140"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "4020"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7409.91379310345"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "8772.89156626506"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21000"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19983.2654249127"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8393.22390572391"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11854.5362023844"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13494.6483493951"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7772.09302325581"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8773.31460674157"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10261.247723133"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11592.7952105698"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19662.5512295082"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "10686.4583333333"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "15069.1649899396"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "3900"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21040.7657657658"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21189.7327044025"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10846.0869565217"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15661.614340263"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11856.6901408451"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "9712.09016393443"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11863.4172885572"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19907.4097938144"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19526.3683127572"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "12712.7777777778"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "13377.5147928994"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11410.2947845805"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14347.1597300337"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "12621.7592592593"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "12858.9147286822"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10532.2463768116"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "14592.6315789474"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13455.5505685218"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9106.72853828306"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13028.0612244898"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10064.4563918757"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13614.0008576329"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11532.1428571429"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9359.84913793103"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19585.5263157895"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21330"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15550.5711880712"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7947.14285714286"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "13042.923553719"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10724.0664845173"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13136.9874338624"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "14687.9310344828"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19813.3345766505"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19141.5117941387"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "9179.16666666667"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18355.3776041667"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12151.5306122449"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11493.7295528899"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "16282.5342465753"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20317.6430517711"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "11075.4545454545"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14353.7439193885"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10231.3437312537"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15060.3796296296"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "6912.04819277108"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19510.1463104326"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "15925.2906976744"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "12984.3220338983"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10192.3611111111"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10563.6363636364"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15043.75"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19961.3288288288"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "8879.54545454545"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10246.4116208831"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "18963.4615384615"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "9742.85714285714"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "8635.36585365854"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8127.63157894737"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "16153.5714285714"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20785.1736420303"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15585.9712671906"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "9272.22222222222"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "16054.4471153846"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11023.9809580482"
+  },
+  {
+    "v_year": "2010",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7878.57142857143"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12205.2884615385"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19588.3241758242"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14258.8422391858"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11242.2101449275"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "25150.983436853"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21149.0782466202"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22257.3956442831"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13884.379217274"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8182.22891566265"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21293.0555555556"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "16805.0193050193"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20544.75019516"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22103.6862527716"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13614.6676852559"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15930.8793324775"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13183.2605133807"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20929.087540528"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20600.7536882617"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13996.6959480848"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13824.3291432647"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20111.641221374"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22328.0283710551"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17893.2971800434"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13990.3613122506"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "14505.2259887006"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10967.0754716981"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "23029.7250859107"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "10041.2162162162"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "15090.9259259259"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21414.6609833466"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10484.00243309"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "15184.2105263158"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20924.2418498863"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21371.0762331839"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "12343.537414966"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "15783.8652482269"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10747.9755178908"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10828.0696576151"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10036.974789916"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "16045.3125"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12455.8838383838"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12879.8854625551"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "13897.2222222222"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13792.879245283"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "17101.0416666667"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "10511"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11287.5"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9618.14839572192"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "17329.1666666667"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8996.69811320755"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9068.47826086957"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "19641.6666666667"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13836.9682112921"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "13235.0013415616"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21657.2372159091"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10699.0406680265"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9777.08333333333"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18141.1070780399"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18106.406455863"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "17891.6666666667"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15472.0973594033"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10750"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "6150"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "5187.5"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14959.7159940209"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19295.0483091787"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7370.51282051282"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19080.9284932506"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "7500"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "13784.6635883905"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18664.6634615385"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18716.9069296915"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9550"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9912.02163061564"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "12667.5675675676"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20477.3803695998"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11158.0223880597"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18228.1700288184"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "17251.4864864865"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14324.9604930468"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19441.3834951456"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10252.0833333333"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11362.3506825939"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11054.8076923077"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "11551.7515923567"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20612.5601926164"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10620.7859358842"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9848.5632183908"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10373.9773716275"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11993.7720070423"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22376.7200630252"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13007.1759259259"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7321.8947368421"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17283.1325301205"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9473.88809182209"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7246.84115523466"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "6800"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10569.0376569038"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "12631.4516129032"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20500.3989361702"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "16733.3333333333"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7580.52884615385"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19390.1473612063"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20975.4702627939"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "17964.3229166667"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21779.4427324088"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9600.26041666667"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "9311.94444444445"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21229.2691579943"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "17133.3333333333"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11922.5177304965"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "15340.5913978495"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10526.4766993173"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "6012.5"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11491.3519005498"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "12437.5"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "12588.75"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20845.7207207207"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "6851.97368421053"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "14039.7058823529"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12197.1098265896"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11825.2817195326"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "8071.42857142857"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9349.54022988506"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11543.5483870968"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "19389.9038461538"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "26448.2456140351"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20308.375"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14309.305510796"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11351.6666666667"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19757.3855243722"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12787.8947368421"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8206.52350081037"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13150.0651041667"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12238.2774140753"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10666.5914083476"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11322.7635782748"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21121.2090752441"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20873.4322664682"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11291.6385584946"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11100"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14507.2478750287"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "35000"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "14495.3125"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22530.4560260586"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18680.5785123967"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "14177.4425287356"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "23034.9907493062"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18140.7740585774"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11821.3235294118"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20913.0881624567"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10886.9673768309"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22863.4383378016"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "9608.26470588235"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11519.3396226415"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21919.5218323065"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13816.5492957746"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18596.7411545624"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "18207.2097378277"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19919.4262295082"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "24420.2142857143"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19225.7246376812"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10099.6828752643"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11550.6854630109"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "16824"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7959.92990654206"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10715.0899280576"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14339.7063442211"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "23074.2105263158"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12984.0252707581"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18371.4559115396"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8705.53435114504"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21125.7851239669"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12030.2061586639"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9809.31576952237"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21177.4213836478"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10733.9465293108"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19649.4230769231"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "16860.3448275862"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20890.2234636872"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "14005.1324503311"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19078.9855072464"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "12106.4285714286"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "13274.2134062927"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22394.8871650212"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19089.6739130435"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10925.5555555556"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18212.8571428571"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10992.1148255814"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "9566.66666666667"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "14324"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11975.9215376514"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "6327.94117647059"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20263.2789317507"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "15303.3333333333"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11699.2498369211"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15303.7037037037"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "15564.5348837209"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "16800"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "12318.75"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21658.3563918096"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11717.3913043478"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13555.6701030928"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7977"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22711.3095238095"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "15579.5454545455"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "11250.6097560976"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11305.5555555556"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10181.736381323"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19205.244941427"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12638.5075006356"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14426.8877057115"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "17187.9649196957"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19024.5173745174"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17574.6505717916"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21864.7277227723"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "22273.9795918367"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20258.4350170261"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10257.1428571429"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21348.8759566327"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11552.4501631026"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22552.8037383178"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10420.4851752022"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10885.3682170543"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18479.8780487805"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18640.7352941176"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "15326.8691588785"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10876.25"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "15945.2922077922"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10239.2045454545"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "17844.4444444444"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "16581"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "13840"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "11912.5"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13246.7393540424"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19324.2424242424"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "16713.125"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "18691.5422885572"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12855.5803571429"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "24489.9621212121"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20224.5731056563"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20811.1111111111"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10325.7075471698"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "15974.2647058824"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10911.6666666667"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "14768.5483870968"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8344.44444444445"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11666.6666666667"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11411.4285714286"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11711.517501572"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "25598.4"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "10000"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12080.0699300699"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "5600"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12305"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "6600"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11316.795965865"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "16361.9857594937"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12967.3553719008"
+  },
+  {
+    "v_year": "2011",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18840.625"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8302.39361702128"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "23641.4179104478"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21348.1132075472"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20150.78125"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20563.8274336283"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19483.5616438356"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "16133.9686098655"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11015.1098901099"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17469.5"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "22022.8021978022"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13261.8815104167"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17671.5725806452"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10703.855721393"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21889.5161290323"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18261.1111111111"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "8898.21428571429"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19648.9551989301"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "16561.1111111111"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20760.7723577236"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "21606.0606060606"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "26087.619047619"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18845.3125"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13000.4464285714"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "24233.3333333333"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19941.6666666667"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "26586.2244897959"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12993.2873851295"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "17205.2083333333"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "10277.7777777778"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13151.1029411765"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12598.2723577236"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "8300"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "18030"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "22566.6666666667"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "23275"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17569.6428571429"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19696.3141025641"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10951.7857142857"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10359.2278719397"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "16300.9831460674"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17812.3511904762"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "23581.25"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11084.2171016102"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13896.6806479607"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19423.7532808399"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20772.1398305085"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "8595.45454545455"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22377.392120075"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "18975"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "18953.3333333333"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "22836.0576923077"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "15940.6028368794"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15796.4046822742"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12331.1228482003"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "23234.4149459194"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "22612.7192982456"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18904.3241511851"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10551.5202702703"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19195.867768595"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14309.2013888889"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13143.1818181818"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "19612.3595505618"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20378.8978494624"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "27469.0476190476"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "13089.8704663212"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9228.7213740458"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20942.5925925926"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21578.125"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "13116.6666666667"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "22026.7857142857"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "15553.5433070866"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18219.7916666667"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22617.9245283019"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "22805"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "13480"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "9100"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "21870.1981707317"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "23958.4266169154"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19251.2702078522"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15363.7096774194"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20000.4373177843"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19979.6040515654"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17376.9230769231"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "26204.012345679"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "23978.5947712418"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "23007.9268292683"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "17061.3636363636"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17577.9816513761"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10140.8239700375"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21841.5061633282"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "19192.8571428571"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18926.3260530421"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11242.9003153469"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12986.4411882778"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17414.1949152542"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19904.2656970557"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "20732.3643410853"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21236.5013774105"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "26236.8811881188"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19187.2340425532"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20519.4923371647"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "25479.1666666667"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "24276.3157894737"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21580.0702811245"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "21362.5"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13217.7777777778"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17313.3651944628"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "25437.0689655172"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "15975.78125"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "22446.1538461538"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18641.1290322581"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "23665.0523560209"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "13191.6666666667"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "17876.0416666667"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11014.0330188679"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "23999.0277777778"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12458.0263157895"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "16120.6325301205"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14155.9130434783"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "18893.4210526316"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19572.0760233918"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "30000"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "21116.2454873646"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19352.3039889959"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12643.1334622824"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10447.2440944882"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17643.8092979127"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "22126.7441860465"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19194.8863636364"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8672.13740458015"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21172.9315902579"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11636.040433925"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19957.1428571429"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "19146.4285714286"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20588.1048387097"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10489.74"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "22904.3408360129"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11436.8881562262"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21725.9433962264"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18798.4589041096"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "25892.5"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14909.5833333333"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "16620.2702702703"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11479.3292682927"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "13865"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21276.8867924528"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "13101.8920595533"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22821.2441314554"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20247.3282442748"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "23158.3394833948"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "14525"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18841.1036508603"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19910.4166666667"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "25255.1165803109"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11635.2045908184"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18352.4104683196"
+  },
+  {
+    "v_year": "2012",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7500"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19200.2994011976"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19032.2580645161"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12495.8075734158"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11815.587529976"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20039.6166134185"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12348.7936772047"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20580.0255536627"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "21204.6489563567"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12063.4312622997"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20191.9087136929"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14041.9463087248"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20116.25"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10622.3004694836"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "21300"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21182.1428571429"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "16764.8444252377"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18482.5676526117"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "23607.6923076923"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18231.0638297872"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22504.0952380952"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14430.0154320988"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "22317.6136363636"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19449.3670886076"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "14465.4718875502"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "23648.031496063"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8079.6875"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "3430.5"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11798.5507246377"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12871.8965517241"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "23401.8518518519"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22451.4312977099"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21755"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9380.35714285714"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9393.36419753086"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13444.1417691857"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21550.5813953488"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "9412.5"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19055.3656597774"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13994.8697068404"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10614.065469905"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9692.28650137741"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8581.61764705882"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20997.4537037037"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19153.6259541985"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12193.3003597122"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "16643.3274021352"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "15921.3768115942"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8249.01315789474"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12741.9950738916"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22640.4276315789"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17107.123655914"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9933.84279475982"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "18556.5217391304"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11336.0738255034"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "3000"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "17388.2154882155"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9562.6926369863"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9490.08130081301"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13390.3846153846"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21848.5714285714"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19220.8180147059"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "22330.2816901408"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18145.9109730849"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11480.3732303732"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21017.5"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "18705.5555555556"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19236.3970588235"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12559.4076655052"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20001.9696969697"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19385.8836206897"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10435.0746268657"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "16664.8579321231"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18527.8709349593"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19867.6691729323"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "16710.1228632479"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18323.1308411215"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "19322.9294478528"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11175.1321197886"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13056.7484662577"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "7633.75"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18526.5"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20080.9382422803"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18631.40969163"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20556.6666666667"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18786.6666666667"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12036.170212766"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18259.2261904762"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9175"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "17914.371257485"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11183.6538461538"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18421.25"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11121.286701209"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11593.3288409704"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8592.64705882353"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9716.31355932203"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18227.9311039484"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10651.204017425"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19584.7850678733"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9055.76923076923"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19660.3846153846"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "20967.7201704545"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18488.6877828054"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18770.6896551724"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11251.9704433498"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19413.0634390651"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "15740.616966581"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "15610"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18583.3333333333"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9286.74698795181"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "17155"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "12729.8611111111"
+  },
+  {
+    "v_year": "2013",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11032.8947368421"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18090.4011461318"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19227.5735294118"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10212.3563218391"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12072.0588235294"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9172.13302752294"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18029.0666666667"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21483.8035019455"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9949.70930232558"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19150.8333333333"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12520.2440239044"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9972.8021978022"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "15658.3333333333"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19545.6565252202"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "10935.3678929766"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11479.0584415584"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10076.9271948608"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19672.9797979798"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19948.4472049689"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "8520.03205128205"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11322.6942425936"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10112"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11530.4331013148"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20837.2149837134"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8093.18647540984"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20980.8189655172"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21672.484984985"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "17711.4583333333"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10819.5833333333"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19328.4768211921"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19782.2351421189"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20173.2365145228"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8678.36593785961"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "21316.834038055"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7840.30612244898"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8119.93801652893"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18419.623655914"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19952.9252437703"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9745.56451612903"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18923.4819989253"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "13000"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11588.5869565217"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "17693.359375"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13550.2659574468"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11654.1122004357"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "14485.7142857143"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "15195.5882352941"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9536.27450980392"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "12002.9670577617"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20824.3113772455"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "24500"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20553.1094527363"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "20476.310772164"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "7596.39175257732"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20421.8050065876"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11312.1338912134"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "10135"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18461.1351071182"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18598.6111111111"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "15520"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13909.0875589623"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18840.5847436221"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20859.4791666667"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "11755.7067812798"
+  },
+  {
+    "v_year": "2014",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "18727.9661016949"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21199.2021276596"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "21740.4833836858"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11936.2776025237"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9609.21052631579"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19505"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20277.397260274"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12894.2812982998"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12802.8813559322"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20739.0151515152"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9916"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20994.9312714777"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13848.9035087719"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "2",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "10465.8163265306"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20655.1799007444"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "3",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13033.5164835165"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13071.032649962"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "2",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20347.2334682861"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "19834.5348837209"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19821.5"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18129.0268456376"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19323.7179487179"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14994.1991786448"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9748.50427350427"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "13032.3076923077"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "3",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "11169.3333333333"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 60 months",
+    "V1": "22725.92"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "4",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20467.5712347354"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "4",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18942.6680547293"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "11162.9370629371"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "8645.07575757576"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18026.912568306"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "8399.375"
+  },
+  {
+    "v_year": "2015",
+    "v_quarter": "4",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "19786.1788617886"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "RENT",
+    "term": " 36 months",
+    "V1": "9751.16099071207"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "9814.76063829787"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "13934.7667638484"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "6",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "22003.6279683377"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "MORTGAGE",
+    "term": " 36 months",
+    "V1": "14511.8920032976"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "OWN",
+    "term": " 60 months",
+    "V1": "20104.0609137056"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "1",
+    "home_ownership": "RENT",
+    "term": " 60 months",
+    "V1": "18903.3444816054"
+  },
+  {
+    "v_year": "2016",
+    "v_quarter": "1",
+    "grade_2": "5",
+    "home_ownership": "OWN",
+    "term": " 36 months",
+    "V1": "12197.4004424779"
+  }
+]
