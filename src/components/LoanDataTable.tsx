@@ -1,4 +1,13 @@
 import {
+  Bar,
+  BarChart,
+  CartesianGrid,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from "recharts";
+import {
   Box,
   Button,
   FormControl,
@@ -102,6 +111,20 @@ const LoanDataTable: React.FC = () => {
     return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
   };
 
+  // Custom tooltip formatter for the chart
+  const formatTooltip = (value: number, name: string) => {
+    return [formatCurrency(value), "Total Balance"];
+  };
+
+  // Prepare data for the bar chart
+  const getChartData = () => {
+    return gradeAggregations.map(({ grade, totalBalance }) => ({
+      grade: `Grade ${grade.toUpperCase()}`,
+      totalBalance,
+      formattedBalance: formatCurrency(totalBalance),
+    }));
+  };
+
   const gradeAggregations = getGradeAggregations();
 
   if (loanData.length === 0) {
@@ -198,6 +221,54 @@ const LoanDataTable: React.FC = () => {
           <Button variant="outlined" onClick={handleReset} size="small">
             Reset
           </Button>
+        </Box>
+      </Paper>
+
+      {/* Bar Chart */}
+      <Paper elevation={2} sx={{ p: 3, mb: 3 }}>
+        <Typography variant="h6" gutterBottom>
+          Current Balance by Grade
+        </Typography>
+        <Box sx={{ width: "100%", height: 400 }}>
+          <ResponsiveContainer width="100%" height="100%">
+            <BarChart
+              data={getChartData()}
+              margin={{
+                top: 20,
+                right: 30,
+                left: 20,
+                bottom: 5,
+              }}
+            >
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis
+                dataKey="grade"
+                tick={{ fontSize: 12 }}
+                angle={-45}
+                textAnchor="end"
+                height={80}
+              />
+              <YAxis
+                tick={{ fontSize: 12 }}
+                tickFormatter={(value) => `$${(value / 1000000).toFixed(1)}M`}
+              />
+              <Tooltip
+                formatter={formatTooltip}
+                labelStyle={{ color: "#000" }}
+                contentStyle={{
+                  backgroundColor: "#f5f5f5",
+                  border: "1px solid #ccc",
+                  borderRadius: "4px",
+                }}
+              />
+              <Bar
+                dataKey="totalBalance"
+                fill="#1976d2"
+                radius={[4, 4, 0, 0]}
+                name="Total Balance"
+              />
+            </BarChart>
+          </ResponsiveContainer>
         </Box>
       </Paper>
 
