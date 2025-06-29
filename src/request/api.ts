@@ -1,12 +1,15 @@
 import { normalizeLoanData, transformLoanData } from "../utils/dataTransformer";
+import { setLoading, setLoanData } from "../store/dataSlice";
 
 import { CsvRow } from "../utils/dataTransformer";
 import { LoanData } from "../utils/dataTransformer";
 import Papa from "papaparse";
+import { store } from "../store/store";
 
 const csvUrl = "/loansize.csv";
 
 export const getData = async (): Promise<LoanData[]> => {
+  store.dispatch(setLoading(true));
   try {
     const response = await fetch(csvUrl);
     if (!response.ok) {
@@ -20,11 +23,11 @@ export const getData = async (): Promise<LoanData[]> => {
         skipEmptyLines: true,
         complete: (result: Papa.ParseResult<CsvRow>) => {
           try {
-            console.log("Parsed CSV data:", result.data);
             const normalizedData = normalizeLoanData(result.data);
-            console.log("Normalized data:", normalizedData);
             const transformLoanDataResult = transformLoanData(normalizedData);
-            console.log("Transformed loan data:", transformLoanDataResult);
+
+            store.dispatch(setLoanData(transformLoanDataResult));
+
             resolve(transformLoanDataResult);
           } catch (error) {
             console.error("Error parsing CSV data:", error);
@@ -40,5 +43,7 @@ export const getData = async (): Promise<LoanData[]> => {
   } catch (error) {
     console.error("Error loading CSV file:", error);
     throw error;
+  } finally {
+    store.dispatch(setLoading(false));
   }
 };
