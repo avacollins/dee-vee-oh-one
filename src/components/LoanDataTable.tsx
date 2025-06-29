@@ -116,6 +116,8 @@ const LoanDataTable: React.FC = () => {
     return [formatCurrency(value), "Total Balance"];
   };
 
+  const gradeAggregations = getGradeAggregations();
+
   // Prepare data for the bar chart
   const getChartData = () => {
     return gradeAggregations.map(({ grade, totalBalance }) => ({
@@ -124,8 +126,6 @@ const LoanDataTable: React.FC = () => {
       formattedBalance: formatCurrency(totalBalance),
     }));
   };
-
-  const gradeAggregations = getGradeAggregations();
 
   if (loanData.length === 0) {
     return (
