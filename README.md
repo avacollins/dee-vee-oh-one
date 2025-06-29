@@ -2,6 +2,8 @@
 
 A React/Redux application that visualizes loan data through interactive tables and charts with advanced filtering capabilities.
 
+See github-pages [LIVE DEMO](https://avacollins.github.io/dee-vee-oh-one/)
+
 ## 📊 Features
 
 - **Data Visualization**: Interactive bar chart showing loan balances aggregated by grade
