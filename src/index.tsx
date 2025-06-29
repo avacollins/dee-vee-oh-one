@@ -5,6 +5,7 @@ import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
 import App from "./App";
 import React from "react";
 import ReactDOM from "react-dom/client";
+import { ReduxProvider } from "./components/ReduxProvider";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(
@@ -12,7 +13,9 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <App />
+    <ReduxProvider>
+      <App />
+    </ReduxProvider>
   </React.StrictMode>
 );
 // unregister() to register() below. Note this comes with some pitfalls.
